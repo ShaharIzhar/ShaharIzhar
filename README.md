@@ -8,7 +8,7 @@
   -Phone: +972547726838
   -LinkedIn: https://il.linkedin.com/in/shahar-izhar-prato-9061161a2
 
-<!---
+
 I’m a software programmer with a love for the world of computers. since my early ages, always learning, experimenting, and creating. 
 All the way to and through my military service - working on classified, high complexity projects while using OOP, C#, Python and more. 
 In addition to programming, the love of taking big responsibilities and team leading had taken place. 
@@ -20,4 +20,4 @@ An example to one of the volunteer works which have taken a big place of my life
 https://www.youtube.com/watch?v=CbAOuSLbi0k
 
 If you’d like to learn more about how my services can help your company, please reach out via email/ phone or LinkedIn.
---->
+
