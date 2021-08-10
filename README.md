@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaharIzhar
 - 👀 I’m interested in Coding, OOP .NET and web coding while having a smaller interest in Python and Embedded, Love doing my own projects while having fun and usefull ideas.
-- 💞️ Looking for an opportunity to be part of a team that is powered by core values and is engaged in cutting edge technologies.
+- Looking for an opportunity to be part of a team that is powered by core values and is engaged in cutting edge technologies.
   To learn and contribute in a meaningful way in all areas and all around.
   
 - 📫 How to reach me: 
